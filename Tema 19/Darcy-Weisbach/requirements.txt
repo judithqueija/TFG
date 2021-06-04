@@ -1,0 +1,4 @@
+matplotlib
+sympy
+tabulate
+ipynb
